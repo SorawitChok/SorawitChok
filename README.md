@@ -54,16 +54,6 @@ An implementation of the Transformer architecture from scratch using PyTorch. Th
 - Advanced C++ Concepts
 - Data Science & Machine Learning
 - Software Engineering Best Practices
-
----
-
-## 🎯 Goals for 2025
-
-- Contribute to open-source AI projects
-- Publish more hands-on, from-scratch projects
-- Collaborate with other passionate developers
-- Keep learning and growing every day
-
 ---
 
 ## 🌐 Connect with Me
