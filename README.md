@@ -43,7 +43,7 @@ An implementation of the Transformer architecture from scratch using PyTorch. Th
 
 ## 📈 GitHub Stats
 
-[![SorawitChok's GitHub stats](https://github-readme-stats.vercel.app/api?username=SorawitChok&show_icons=true&hide_title=true&hide_rank=false)](https://github.com/anuraghazra/github-readme-stats)
+[![SorawitChok's GitHub stats](https://github-readme-stats.vercel.app/api?username=SorawitChok&show_icons=true&hide_title=true&hide_rank=true)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SorawitChok&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
