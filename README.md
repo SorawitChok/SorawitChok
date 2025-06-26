@@ -51,7 +51,6 @@ An implementation of the Transformer architecture from scratch using PyTorch. Th
 ## 📚 Currently Learning
 
 - Deep Learning & Neural Networks
-- Advanced C++ Concepts
 - Data Science & Machine Learning
 - Software Engineering Best Practices
 ---
