@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Sorawit Chokphantavee!
 
-> **Student | Aspiring AI Engineer | Code Enthusiast**
+> **Computer Engineering Student | Aspiring AI/ML Researcher | Code Enthusiast**
 
 ---
 
