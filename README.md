@@ -37,7 +37,7 @@ An implementation of the Transformer architecture from scratch using PyTorch. Th
 - **[NLP-based music processing for composer classification](https://www.nature.com/articles/s41598-023-40332-0)**  
   _Scientific Reports, Nature, 2023_  
 - **[Denoising Raman Spectra Using Autoencoder for Improved Analysis of Contamination in HDD](https://ieeexplore.ieee.org/document/10637964)**  
-  _IEEE Xplore, 2024_  
+  _IEEE Access, 2024_  
 
 ---
 
