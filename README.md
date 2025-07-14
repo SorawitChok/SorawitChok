@@ -32,8 +32,7 @@ An implementation of the Transformer architecture from scratch using PyTorch. Th
 
 ## 📝 Publications
 - **[Intestate Inheritance Allocation Algorithm According to Thai Law Using Bottom-up Pruning Approach](https://link.springer.com/chapter/10.1007/978-981-96-6389-7_24)**
-
-  _13th International Conference on Computational Data and Social Networks, 2025_
+_IEEE Access, 2024_
 - **[Thai Legal Fact Classification of Property-Related Offences Using Finetuned BERT Modelling](https://link.springer.com/chapter/10.1007/978-981-96-6389-7_26)**
 
   _13th International Conference on Computational Data and Social Networks, 2025_
