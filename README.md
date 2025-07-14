@@ -31,13 +31,16 @@ An implementation of the Transformer architecture from scratch using PyTorch. Th
 ---
 
 ## 📝 Publications
-
-- **[Visual-based Musical Data Representation for Composer Classification](https://ieeexplore.ieee.org/document/9960254/)**  
-  _IEEE Xplore, 2022_  
-- **[NLP-based music processing for composer classification](https://www.nature.com/articles/s41598-023-40332-0)**  
-  _Scientific Reports, Nature, 2023_  
+- **[Intestate Inheritance Allocation Algorithm According to Thai Law Using Bottom-up Pruning Approach](https://link.springer.com/chapter/10.1007/978-981-96-6389-7_24)**
+  _13th International Conference on Computational Data and Social Networks, 2025_
+- **[Thai Legal Fact Classification of Property-Related Offences Using Finetuned BERT Modelling](https://link.springer.com/chapter/10.1007/978-981-96-6389-7_26)**
+  _13th International Conference on Computational Data and Social Networks, 2025_
 - **[Denoising Raman Spectra Using Autoencoder for Improved Analysis of Contamination in HDD](https://ieeexplore.ieee.org/document/10637964)**  
-  _IEEE Access, 2024_  
+  _IEEE Access, 2024_
+- **[NLP-based music processing for composer classification](https://www.nature.com/articles/s41598-023-40332-0)**  
+  _Scientific Reports, Nature, 2023_
+- **[Visual-based Musical Data Representation for Composer Classification](https://ieeexplore.ieee.org/document/9960254/)**  
+  _17th International Joint Symposium on Artificial Intelligence and Natural Language Processing, 2022_  
 
 ---
 
