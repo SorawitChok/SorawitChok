@@ -32,9 +32,9 @@ An implementation of the Transformer architecture from scratch using PyTorch. Th
 
 ## 📝 Publications
 - **[Intestate Inheritance Allocation Algorithm According to Thai Law Using Bottom-up Pruning Approach](https://link.springer.com/chapter/10.1007/978-981-96-6389-7_24)** <br/>
-  _13th International Conference on Computational Data and Social Networks, 2025_
+  _13th International Conference on Computational Data and Social Networks, 2024_
 - **[Thai Legal Fact Classification of Property-Related Offences Using Finetuned BERT Modelling](https://link.springer.com/chapter/10.1007/978-981-96-6389-7_26)**<br/>
-  _13th International Conference on Computational Data and Social Networks, 2025_
+  _13th International Conference on Computational Data and Social Networks, 2024_
 - **[Denoising Raman Spectra Using Autoencoder for Improved Analysis of Contamination in HDD](https://ieeexplore.ieee.org/document/10637964)**  
   _IEEE Access, 2024_
 - **[NLP-based music processing for composer classification](https://www.nature.com/articles/s41598-023-40332-0)**  
