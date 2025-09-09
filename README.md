@@ -31,6 +31,8 @@ An implementation of the Transformer architecture from scratch using PyTorch. Th
 ---
 
 ## 📝 Publications
+- **[AI-Powered Virtual Assistants in the Metaverse: Leveraging Retrieval-Augmented Generation for Smarter Interactions](https://ieeexplore.ieee.org/abstract/document/11101141)** <br/>
+  _22nd International Conference on Electrical Engineering/Electronics, Computer, Telecommunications and Information Technology, 2025_
 - **[Intestate Inheritance Allocation Algorithm According to Thai Law Using Bottom-up Pruning Approach](https://link.springer.com/chapter/10.1007/978-981-96-6389-7_24)** <br/>
   _13th International Conference on Computational Data and Social Networks, 2024_
 - **[Thai Legal Fact Classification of Property-Related Offences Using Finetuned BERT Modelling](https://link.springer.com/chapter/10.1007/978-981-96-6389-7_26)**<br/>
